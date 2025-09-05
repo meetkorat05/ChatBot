@@ -2,7 +2,7 @@
 
 # 🏥 AI-Powered Medical Chatbot  
 
-An AI-based **context-aware medical assistant** that provides reliable responses to health-related queries using a medical knowledge base. Built with **LangChain, Gemini API (`Gemini-flash-1.5`), HuggingFace Embeddings and Pinecone.  
+An AI-based **context-aware medical assistant** that provides reliable responses to health-related queries using a medical knowledge base. Built with LangChain, Gemini API (`Gemini-flash-1.5`), HuggingFace Embeddings and Pinecone.  
 
 ⚠️ **Disclaimer:** This chatbot is for educational and informational purposes only. It is **not a substitute for professional medical advice**.  
 
@@ -66,7 +66,12 @@ ChatBot/
 
 ---
 
-## 🔮 Future Work  
-- Add conversational memory (carry context across queries).  
+## 📬 Contact
+
+If you have any questions, feel free to connect with me:
+
+@ LinkedIn : [Meet Korat](https://www.linkedin.com/in/meet-korat-4353a7284/)
+
+@ Github : [Meet Korat](https://github.com/meetkorat05)
 - Support multiple medical books for broader knowledge.  
 - Deploy on Hugging Face Spaces / Streamlit Cloud.  
