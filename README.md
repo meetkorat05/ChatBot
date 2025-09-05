@@ -35,21 +35,23 @@ ChatBot/
 │   └── The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf
 │
 ├── research/                 # Research materials or notes
-│   └── research_notes.txt
+│   └── trials.ipynb
 │
 ├── src/                      # Source code
-│   ├── app.py                # Flask backend (main chatbot)
-│   ├── store_index.py        # Script to create embeddings & Pinecone DB
-│   └── utils.py              # Utility functions
+│   
+│   ├── helper.py
+│   └── prompt.py
 │
 ├── static/                   # Static assets (CSS, JS, images)
 │   └── style.css
 │
 ├── templates/                # HTML templates
-│   └── index.html
+│   └── chat.html
 │
+├── app.py                    # Flask backend (main chatbot)
 ├── requirements.txt          # Python dependencies
-├── setup.py                  # Setup script
+├── setup.py
+├── store_index.py
 ├── .gitignore                # Git ignore file
 └── README.md                 # Project documentation
 
