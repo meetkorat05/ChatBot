@@ -65,7 +65,18 @@ ChatBot/
    ```bash
    git clone https://github.com/meetkorat05/ChatBot.git
    cd ChatBot
-
+2. Create a virtual environment
+   python -m venv venv
+   venv\Scripts\activate
+3. Install Dependencies
+   pip install -r requirements.txt
+4. Set Up Environment Variables
+   GEMINI_API_KEY=your_gemini_api_key_here
+   PINECONE_API_KEY=your_pinecone_api_key_here
+5. Run the Flask App
+   python app.py   
+      
+   
 ---
 
 ## 📬 Contact
