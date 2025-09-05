@@ -72,6 +72,4 @@ If you have any questions, feel free to connect with me:
 
 @ LinkedIn : [Meet Korat](https://www.linkedin.com/in/meet-korat-4353a7284/)
 
-@ Github : [Meet Korat](https://github.com/meetkorat05)
-- Support multiple medical books for broader knowledge.  
-- Deploy on Hugging Face Spaces / Streamlit Cloud.  
+@ Github : [Meet Korat](https://github.com/meetkorat05)  
